@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>MayflowerTutorial</label>
+	</settings>
+	<users>
+		<user>
+			<path>MayflowerTutorial.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>MayflowerTutorial.jcp</path>
+		</project>
+	</projects>
+</workspace>
